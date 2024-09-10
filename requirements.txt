@@ -1,0 +1,5 @@
+bs4
+requests
+networkx
+python-dotenv
+pyvis
