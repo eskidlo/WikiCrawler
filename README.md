@@ -45,5 +45,5 @@ python3 shortest_path.py --from 'Python (programming_language)' --to 'C++' -v
 ### render_graph
 
 ```sh
-python3 visualizer.py
+python3 render_graph.py
 ```
